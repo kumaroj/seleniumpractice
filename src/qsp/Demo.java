@@ -19,7 +19,7 @@ public class Demo {
 		l.warn("warn2");
 		l.info("info2");
 		l.debug("debug2");
-		l.trace("trace2");
+		l.trace("trace3");
 	}
 
 }
