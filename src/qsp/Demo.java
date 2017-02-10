@@ -9,7 +9,7 @@ public class Demo {
 		Logger l=Logger.getLogger("Demo");
 		l.fatal("Fatal1");
 		l.error("error1");
-		l.warn("warn1");
+		l.warn("warn2");
 		l.info("info1");
 		l.debug("debug1");
 		l.trace("trace1");
